@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krokodajl.github.io/pi-network-referral/sitemap.xml
