@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://piminingcode.com/sitemap.xml
